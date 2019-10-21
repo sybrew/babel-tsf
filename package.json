@@ -3,7 +3,6 @@
 	"scripts": {
 		"start": "node run.js"
 	},
-	"browserslist": "> 1.25%, not dead",
 	"devDependencies": {
 		"@babel/core": "^7.3.4",
 		"@babel/preset-env": "^7.6.3",
